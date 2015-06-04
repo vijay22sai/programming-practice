@@ -4,3 +4,5 @@
 2) git add (add to staging area)
 3) git commit -m <commit_message> (commit changes)
 4) git push origin <branch_name> (push the changes to origin branch)
+
+# Creating git branches
